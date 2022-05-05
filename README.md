@@ -49,13 +49,12 @@ $ ./start.sh
 * Bootstrap
 * CSS3
 * newsApi
-* 
+
 
 
 ## Contribution
+
 You can contribute to the project by forking the project  and following the above steps of cloning the project
-
-
 
 ## Support and Contacts
 For assistance,collaboration or query feel free to reachout issmarvokim@gmail.com
