@@ -1,10 +1,11 @@
-# News Update
+# News Hub
+
 This is a [website](https://newsapp97.herokuapp.com/) that provides the latest news updates from around the world 
 
-![News article](articles.png)
 ![source](news-sources.png)
 
 ## Author 
+
 * Marvin Kimathi
   
 ## BDD(Behaviour Driven Development)
@@ -14,11 +15,14 @@ Expected: The button on the home page will direct the user to  articles and the 
 
 
 ## Installations
-* python
+* Python
 * Flask
 * virtual environment
 * Flask-bootstrap
+
+
 ## Project Set Up
+
 This project can be accessed by  setting up the environment  for running this application by installing the above technologies which are essential and then clone the project  and follow the steps below
 
 First clone the repo  to your machine
