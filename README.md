@@ -5,7 +5,7 @@ This is a [website](https://newsapp97.herokuapp.com/) that provides the latest n
 ![source](news-sources.png)
 
 ## Author 
-* Thomas Khaemba
+* Marvin Kimathi
   
 ## BDD(Behaviour Driven Development)
 Given : That the user has access to the App
@@ -23,7 +23,7 @@ This project can be accessed by  setting up the environment  for running this ap
 
 First clone the repo  to your machine
 ```
-$ git clone<repo>
+$ git clone<repo url>
 ```
 Then get into  the project directory  you just cloned 
 ```
@@ -54,7 +54,7 @@ You can contribute to the project by forking the project  and following the abov
 
 
 ## Support and Contacts
-For assistance,collaboration or query feel free to reachout tommybwah@gmail.com
+For assistance,collaboration or query feel free to reachout issmarvokim@gmail.com
 
 ## Copyright and License
 Licensed under [MIT](license)
