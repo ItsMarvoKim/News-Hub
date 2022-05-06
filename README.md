@@ -9,12 +9,14 @@ This is a [website](https://newsapp97.herokuapp.com/) that provides the latest n
 * Marvin Kimathi
   
 ## BDD(Behaviour Driven Development)
+
 Given : That the user has access to the App
 Then : The user can click on the buttons both on the home page and articles page
 Expected: The button on the home page will direct the user to  articles and the buttons on  articles will direct the user  to the  full artcle on the source  website
 
 
 ## Installations
+
 * Python
 * Flask
 * virtual environment
