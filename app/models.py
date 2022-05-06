@@ -9,9 +9,11 @@ class News :
         self.description = description
 
 class Articles:
+
     '''
     function class to define  article objects
     '''
+    
     def __init__(self,author,title,description,url,urlToImage,publishedAt):
         self.authtor = author
         self.title = title
