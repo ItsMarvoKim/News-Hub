@@ -4,6 +4,7 @@ from app.models import News
 
 
 class NewsTest(unittest.TestCase):
+    
     '''
     Test class to test the behavior of the News class
     '''
